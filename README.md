@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @vozuna-code
-- 👀 I’m interested in ... becoming a full stack software engineer 
-- 🌱 I’m currently learning ... react 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Linkedin https://www.linkedin.com/in/victor-o-zuna/
+- 👋 Hi, I’m Victor Ozuna an aspiring software engineer and student at Year Up San Francsico, Ca.
+
+- 🌱 Stuff I'm learning: 
+- Front end and backend development 
+- HTML, CSS, Javascript
+- React Js 
+
 
 <!---
 vozuna-code/vozuna-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
